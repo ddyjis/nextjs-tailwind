@@ -9,9 +9,14 @@
     "react": "^17.0.0",
     "react-dom": "^17.0.0"
   },
-  "scripts":{
+  "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
+  },
+  "devDependencies": {
+    "postcss-flexbugs-fixes": "^4.2.1",
+    "postcss-preset-env": "^6.7.0",
+    "tailwindcss": "^1.9.5"
   }
 }
