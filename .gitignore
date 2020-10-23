@@ -1,5 +1,8 @@
 # NodeJS
 node_modules
 
+# Yarn
+yarn-error.log
+
 # Next.JS
 .next
